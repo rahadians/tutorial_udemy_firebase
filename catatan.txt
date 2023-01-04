@@ -1,0 +1,10 @@
+buka flutterfire.com
+
+intruksi via flutterfire CLI
+
+npm install -g firebase-tools
+dart pub global activate flutterfire_cli
+
+create project di firebase web
+
+flutterfire configure 
